@@ -1,6 +1,6 @@
 # Time_series_analysis
 
-# Problem Statement:
+## Problem Statement:
 
 Forecasting the future values has always been one of the most challenging problems in the field. More specifically, the primary goal here is to focus on the problem of forecasting future values of number of ads being watched per hour in a real mobile game.
 
